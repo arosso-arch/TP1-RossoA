@@ -1,18 +1,34 @@
-## Getting Started
+# TP1 · Fundamentos de Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Trabajo Práctico N.º 1 de Programación (Tecnicatura en Desarrollo de Software, ICOP): 14 ejercicios de consola para practicar entrada de datos, condicionales, bucles, cadenas, arreglos y funciones.
 
-## Folder Structure
+## Ejercicios
 
-The workspace contains two folders by default, where:
+| N.º | Tema |
+|---|---|
+| 1 | Saludo con el nombre ingresado |
+| 2 | Número par o impar |
+| 3 | Tabla de multiplicar |
+| 4 | Contar vocales de una palabra |
+| 5 | Detectar palíndromos |
+| 6 | Juego de adivinar el número |
+| 7 | Calculadora con menú |
+| 8 | Conversor de temperatura (°C ↔ °F) |
+| 9 | Contar palabras de un texto |
+| 10 | Verificar si una contraseña es segura |
+| 11 | Serie de Fibonacci |
+| 12 | Carga y recorrido de un arreglo |
+| 13 | Promedio de notas por alumno |
+| 14 | Recorrido de una matriz mostrando los valores distintos de cero |
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologías
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Java · Scanner · arreglos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Cómo ejecutarlo
 
-## Dependency Management
+Abrí la carpeta en VS Code (con el Extension Pack for Java) o en otro IDE y ejecutá la clase `Principal`, que tiene un menú para correr cada ejercicio.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autor
+
+Agustín Rosso · Tecnicatura en Desarrollo de Software, Instituto Superior ICOP
